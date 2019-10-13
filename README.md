@@ -2,4 +2,4 @@
 Echo Telegram bot using Python
 
 ### Screenshot
-![echo-bot](img/screenshot.png)
+![echo-bot](screenshots/screenshot.png)
